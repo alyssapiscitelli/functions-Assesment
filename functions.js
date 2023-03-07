@@ -16,7 +16,7 @@ function divisibleByTwo (x){
     if (x % number === 0)
      console.log ('The Number ', x ,' is divisible by 2' , true);
     else 
-    console.log ('The number ', x ,' is not divisible by 2', false);
+    console.log ('The Number ', x ,' is not divisible by 2', false);
 }
 divisibleByTwo(8);
 divisibleByTwo(9);
